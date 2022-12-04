@@ -1,16 +1,7 @@
-# test_db
+# write_read_db_flutter
 
-A new Flutter project.
+Flutter write and read data base
+## About The Project
+![Screenshot](screenshot.png)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The Flutter app demonstrates writing to a database and then reading from a database. Data output is done in the UI.
